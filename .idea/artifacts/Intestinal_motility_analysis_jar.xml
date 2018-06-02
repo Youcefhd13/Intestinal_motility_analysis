@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Intestinal_motility_analysis:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Intestinal_motility_analysis_jar</output-path>
+    <root id="archive" name="Intestinal_motility_analysis.jar">
+      <element id="module-output" name="Intestinal_motility_analysis" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jdk1.8.0_111/jre/../lib/tools.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/imagej/ij/1.49m/ij-1.49m.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/sc/fiji/Multi_Kymograph/3.0.0-SNAPSHOT/Multi_Kymograph-3.0.0-20170219.142206-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/gov/nist/math/jama/1.0.3/jama-1.0.3.jar" path-in-jar="/" />
+      <element id="library" level="module" name="pom.xml" module-name="Process_Pixels" />
+    </root>
+  </artifact>
+</component>
